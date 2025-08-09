@@ -1,0 +1,8 @@
+
+# 你的 Coinone API 凭证
+COINONE_ACCESS_TOKEN = "c3eea729-a1c3-41d6-8308-a002721b787f"
+COINONE_SECRET_KEY = "0bd6d6fa-7f78-4c7f-a58f-76545efe8ff4"
+
+# FastAPI 服务配置
+API_TITLE = "Coinone Proxy API"
+API_VERSION = "1.0.0"
